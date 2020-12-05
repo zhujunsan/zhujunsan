@@ -2,7 +2,7 @@
 
 I'm San, live in Shanghai, China, 🌏, 🌌.
 
-Major in Physics, now write code for a living.
+Major in Physics, now writes code for a living.
 
 Interested in Astronomy, Physics, Computer Science & Technology, Hacking & Tinkering, Consumer Electrics, Arduino(and surrounding stuffs), SDR, Sci-Fi🖖🏻, and still adding more...
 
