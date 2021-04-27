@@ -4,6 +4,6 @@ I'm San, live in Shanghai, China, 🌏, 🌌.
 
 Major in Physics, now writes code for a living.
 
-Interested in Astronomy, Physics, Computer Science & Technology, Hacking & Tinkering, Consumer Electrics, Arduino(and surrounding stuffs), SDR, Sci-Fi🖖🏻, and still adding more...
+Interested in Astronomy, Physics, Computer Science & Technology, Hacking & Tinkering, Consumer Electrics, Arduino(and surrounding stuffs), Amateur radio/SDR, Sci-Fi🖖🏻, 3D Printing, and still adding more...
 
 Communicates in :cn: Chinese, :us: English, PHP, JavaScript, Python, Go, C, etc...; Learning :fr: French
