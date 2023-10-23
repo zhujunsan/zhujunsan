@@ -6,4 +6,4 @@ Major in Physics, now writes code for a living.
 
 Interested in Astronomy, Physics, Computer Science & Technology, Hacking & Tinkering, Consumer Electrics, MCUs (like Arduino and related stuffs), Amateur radio/SDR, Sci-Fi🖖🏻, 3D Printing, and still adding more...
 
-Communicates in :cn: Chinese, :us: English, PHP, JavaScript, Python, Go, C, etc...; Learning :fr: French
+Communicates in :cn: Chinese, :us: English, PHP, JavaScript, Python, Go, C, etc...; Learning :fr: French, :es: Español, Latin
