@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhujunsan&hide_title=true&text_color=fff&title_color=fff&bg_color=45,f4876d,904e95" />
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=zhujunsan&hide_title=true&text_color=fff&title_color=fff&bg_color=45,f4876d,904e95" />
 
 I'm San, live in Shanghai, China, 🌏, 🌌.
 
